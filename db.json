@@ -1,14 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "rentals":[
+      {
+         "id":1,
+         "image":"https://source.unsplash.com/AwOG1tC5buE/100",
+         "title":"476-5434 Est Avenue",
+         "value":"2300"
+      },
+      {
+         "id":2,
+         "image":"https://source.unsplash.com/R-LK3sqLiBw/100",
+         "title":"7569 Ac Rd.",
+         "value":"4300"
+      },
+      {
+         "id":3,
+         "image":"https://source.unsplash.com/3wylDrjxH-E/100",
+         "title":"Ap #472-4287 Malesuada Street",
+         "value":"3040"
+      },
+      {
+         "id":4,
+         "image":"https://source.unsplash.com/9uH-hM0VwPg/100",
+         "title":"1646 Egestas Rd.",
+         "value":"2460"
+      },
+      {
+         "id":5,
+         "image":"https://source.unsplash.com/Wp7t4cWN-68/100",
+         "title":"6940 Nisi Rd.",
+         "value":"4230"
+      },
+      {
+         "id":6,
+         "image":"https://source.unsplash.com/AQl-J19ocWE/100",
+         "title":"P.O. Box 580, 876 Iaculis Avenue",
+         "value":"5600"
+      },
+      {
+         "id":7,
+         "image":"https://source.unsplash.com/kdwahpWYfQo/100",
+         "title":"149-6348 Sed St.",
+         "value":"12000"
+      },
+      {
+         "id":8,
+         "image":"https://source.unsplash.com/dAAk8Aqd_-I/100",
+         "title":"532-3765 Pharetra St.",
+         "value":"4050"
+      },
+      {
+         "id":9,
+         "image":"https://source.unsplash.com/mt2QzllH814/100",
+         "title":"Ap #769-9259 Fames Road",
+         "value":"3401"
+      },
+      {
+         "id":10,
+         "image":"https://source.unsplash.com/MfJ9g64-WxQ/100",
+         "title":"Ap #645-653 Taciti Avenue",
+         "value":"4678"
+      }
+   ]
 }
